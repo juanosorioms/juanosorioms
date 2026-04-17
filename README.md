@@ -39,7 +39,7 @@ DevOps:       Git · Docker · azd · Bicep
 
 | Project | Description |
 |---------|-------------|
-| [**batch-eval-toolkit**](https://github.com/jcosorio_microsoft/batch-eval-toolkit) | 🧪 AI Agent Evaluation Framework — LLM-as-Judge + Azure AI Foundry + Human-in-the-Loop |
+| |
 
 ### 📫 Connect
 
